@@ -1,22 +1,22 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Numpy: Reshape",
+  "slug": "numpy-reshape",
+  "description": "Reshape a NumPy array to a new compatible shape without changing its total number of values.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 2,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "numpy-arange",
+    "numpy-arrays-with-multiple-dimensions"
+  ],
+  "related": [
+    "exercise-numpy-array-construction-and-reshaping"
+  ]
 }

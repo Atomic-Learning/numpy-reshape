@@ -12,9 +12,9 @@
   ],
   "duration": 2,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
     "numpy-arange",
-    "numpy-arrays-with-multiple-dimensions"
+    "numpy-arrays-with-multiple-dimensions",
+    "programming-calling-functions"
   ],
   "related": [
     "exercise-numpy-array-construction-and-reshaping"

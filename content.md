@@ -1,4 +1,4 @@
-You can use `reshape()` to create a new view of an array with a different shape, as long as the total number of values stays the same.
+You can use the `numpy.reshape()` function to create a new view of an array with a different shape, as long as the total number of values stays the same.
 
 ```py-cell
 import numpy as np

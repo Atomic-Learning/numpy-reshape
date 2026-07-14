@@ -18,5 +18,8 @@
   ],
   "related": [
     "exercise-numpy-array-construction-and-reshaping"
+  ],
+  "python_packages": [
+    "numpy"
   ]
 }

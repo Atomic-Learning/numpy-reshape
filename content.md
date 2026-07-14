@@ -16,6 +16,23 @@ print(y.shape)
 print(y)
 ```
 
+# View Implications
+
+As the result of `reshape()` is a view of the original array, any changes made to the new array will also be reflected in the original array, and vice-versa
+
+```py-cell
+import numpy as np
+
+x = np.arange(12)
+y = x.reshape([3, 4])
+
+x[0] = 100
+y[1, 1] = 200
+
+print(x)
+print(y)
+```
+
 # Size Requirements
 
 The new shape must contain the same number of entries as the original array. If it does not, NumPy raises an error.

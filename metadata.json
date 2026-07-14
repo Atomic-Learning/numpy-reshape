@@ -14,7 +14,7 @@
   "prerequisites": [
     "numpy-arange",
     "numpy-arrays-with-multiple-dimensions",
-    "programming-calling-functions"
+    "programming-methods"
   ],
   "related": [
     "exercise-numpy-array-construction-and-reshaping"

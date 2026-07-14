@@ -15,6 +15,7 @@
     "numpy-arange",
     "numpy-arrays-with-multiple-dimensions",
     "numpy-views",
+    "numpy-item-assignment",
     "programming-methods"
   ],
   "related": [

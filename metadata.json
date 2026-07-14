@@ -14,6 +14,7 @@
   "prerequisites": [
     "numpy-arange",
     "numpy-arrays-with-multiple-dimensions",
+    "numpy-views",
     "programming-methods"
   ],
   "related": [
